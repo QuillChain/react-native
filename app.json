@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "iqtestfree",
+    "slug": "iqtestfree",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "iqtestfree"
+}
